@@ -24,7 +24,7 @@
 
 | 🎯 Topic | 📝 Description | 🔗 Link |
 |:---|:---|:---|
-| **SQL Basics to Advanced** | A comprehensive session covering SQL fundamentals to advanced concepts, including practical query writing and their application within MediaWiki for effective data management. | [Watch on YouTube](https://youtu.be/uiZkMpf9bgU?si=5hPxzHDOjGkbN-Ci&t=2892) |
+| **SQL Basics to Advanced** | A comprehensive session covering SQL fundamentals to advanced concepts, including practical query writing and their application within MediaWiki for effective data management. | <a href="https://youtu.be/uiZkMpf9bgU?si=5hPxzHDOjGkbN-Ci&t=2892" target="_blank">Watch on YouTube</a> |
 | **Essential Tools for Wiki Contribution** | An introduction to tools like Phabricator, XTools, and other platforms that streamline contributions to Wikimedia projects, featuring an engaging Q&A with participants. | [Watch on YouTube](https://youtu.be/OaEObj1gYzE?si=oIlcbTh2p32lnhaw&t=2882) |
 
 
