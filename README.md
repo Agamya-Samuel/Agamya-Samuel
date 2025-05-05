@@ -56,13 +56,11 @@
 **Role:** Backend + Frontend Architect  
 **Stack:** NextJS · PostgreSQL · Redis · Kubernetes  
 **Highlights:**  
-- User management (add, edit, delete users)
 - **Security**: Data encryption, anti-cheating measures
 - Exam creation and scheduling
 - Question bank management
 - Real-time monitoring
 - Comprehensive reporting and analytics
-- Secure authentication
 
 
 
