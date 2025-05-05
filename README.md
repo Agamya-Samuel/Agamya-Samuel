@@ -41,23 +41,28 @@
 
 ## 💼 Featured Projects
 
-### 🔥 [Project Name](https://github.com/yourusername/project)  
+### 🔥 [Event Ticketing Platform with QR Check-in](https://github.com/Agamya-Samuel/shuats-ticketing-platform)  
 **Role:** Lead Full‑stack Developer  
-**Stack:** Next.js · Express · MongoDB · Docker · AWS  
+**Stack:** NextJs · Express · MongoDB · Docker · AWS  
+**Highlights:**
+- Event analytics dashboard
+- Graphs and charts using `recharts`
+- Cut API response times by 70% using query optimizations and connection pooling.
+- Integrated role‑based access control, securing four distinct user tiers.
+
+
+
+### 📊 [Quiz App](https://github.com/Agamya-Samuel/shuats-quiz-app)  
+**Role:** Backend + Frontend Architect  
+**Stack:** NextJS · PostgreSQL · Redis · Kubernetes  
 **Highlights:**  
-- Devised a real‑time collaboration engine handling 5k concurrent users.  
-- Reduced bundle size by 40% with dynamic imports and tree‑shaking.  
-- ⭐️ 200+ stars & 10+ forks in first month.  
-
-
-
-### 📊 [Analytics Dashboard](https://github.com/yourusername/analytics-dashboard)  
-**Role:** Backend Architect  
-**Stack:** NestJS · PostgreSQL · Redis · Kubernetes  
-**Highlights:**  
-- Implemented time‑series data model supporting 1M+ records/day.  
-- Cut API response times by 70% using query optimizations and connection pooling.  
-- Integrated role‑based access control, securing four distinct user tiers.  
+- User management (add, edit, delete users)
+- **Security**: Data encryption, anti-cheating measures
+- Exam creation and scheduling
+- Question bank management
+- Real-time monitoring
+- Comprehensive reporting and analytics
+- Secure authentication
 
 
 
@@ -92,7 +97,6 @@
 
 
 
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -104,14 +108,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Agamya-Samuel&theme=vue-dark&hide_border=true" alt="Agamya Samuel's GitHub Streak" />
   </a>
 </p>
-
-
-
-## 🎤 Talks & Publications
-
-- **JSConf India 2024**: “Building Resilient Microservices with Node.js”  
-- **Medium**: “A Deep Dive into GraphQL Subscriptions” – 5k+ reads  
-- **Dev.to**: “Optimizing MongoDB for Scale” – Featured article  
 
 
 
